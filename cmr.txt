@@ -1,0 +1,50 @@
+Our Commerce wing is designed to bridge the gap between classroom theory and real-world financial literacy.
+
+1. Book-keeping & Accountancy (The Core)
+Fundamental Accounting: Introduction to Book-keeping, Double Entry System, Journalizing, and Ledger Posting.
+
+Subsidiary Books: Cash Book, Purchase/Sales Book, and Bank Reconciliation Statements (BRS).
+
+Final Accounts: Detailed preparation of Trading, Profit & Loss A/c, and Balance Sheets for Proprietary and Partnership firms.
+
+Partnership Accounts: Admission, Retirement, and Death of a Partner; Dissolution of Partnership Firms.
+
+Corporate Accounting: Issue of Shares (Forfeiture and Reissue) and Analysis of Financial Statements.
+
+Modern Tools: Computerized Accounting Systems and Tally basics.
+
+2. Economics (Micro & Macro)
+Microeconomics: Study of Individual units, Utility Analysis, Law of Demand, Elasticity of Demand, and Supply Analysis.
+
+Market Forms: Perfect Competition, Monopoly, and Monopolistic Competition.
+
+Macroeconomics: National Income calculation (Output, Income, and Expenditure methods).
+
+Public Finance: Understanding the Government Budget, Revenue vs. Capital Expenditure, and Taxation.
+
+Financial Markets: The role of RBI, Commercial Banks, Stock Markets (BSE/NSE), and SEBI.
+
+3. Organisation of Commerce & Management (OCM)
+Management Principles: Henry Fayol’s 14 Principles and F.W. Taylor’s Scientific Management.
+
+Functions of Management: Planning, Organizing, Staffing, Directing, Coordinating, and Controlling.
+
+Business Services: Detailed study of Banking, Insurance, Transport, Warehousing, and Communication.
+
+Social Responsibilities: Business Ethics and Corporate Social Responsibility (CSR).
+
+Consumer Protection: Rights of consumers and the Redressal Forum (District, State, and National levels).
+
+4. Secretarial Practice (SP) / Mathematics
+Corporate Finance: Capital Structure (Fixed vs. Working Capital) and Sources of Finance (Equity, Debentures, Deposits).
+
+Depository System: Dematerialization (Demat) and Rematerialization process.
+
+Business Math (Optional): Mathematical Logic, Matrices, Differentiation, and Regression Analysis.
+Subject,Theory (Written),Internal/Project,Total Marks,Min. Passing
+Book-keeping & Accountancy,80,20,100,35
+Economics,80,20,100,35
+OCM,80,20,100,35
+Secretarial Practice (SP),80,20,100,35
+Maths & Stats (Commerce),80,20,100,35
+English / Languages,80,20,100,35

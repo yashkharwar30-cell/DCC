@@ -1,0 +1,40 @@
+We provide a dual-focus approach: mastering the Maharashtra Board syllabus while building the foundation for CET/JEE/NEET.
+
+1. Physics (Conceptual & Numerical Mastery)
+Rotational & Fluid Dynamics: Angular momentum, Torque, Surface Tension, and Bernoulli’s Principle.
+
+Thermodynamics: Laws of Thermodynamics, Heat Engines, and Refrigerators.
+
+Oscillations & Waves: Simple Harmonic Motion (SHM), Superposition of Waves, and Doppler Effect.
+
+Optics: Wave Theory of Light, Interference, and Diffraction.
+
+Electromagnetism: Electrostatics, Capacitors, Current Electricity (Kirchhoff’s Laws), and Magnetic Fields.
+
+Modern Physics: Bohr’s Atomic Model, Photoelectric Effect, Nuclear Fission/Fusion, and Semiconductor Logic Gates.
+
+2. Chemistry (The Science of Matter)
+Physical Chemistry: Solid State (Crystal lattices), Solutions (Raoult's Law), Chemical Thermodynamics, and Electrochemistry (Nernst Equation).
+
+Inorganic Chemistry: Extraction of Elements, P-Block, D-Block, and Coordination Compounds (Ligands/Isomerism).
+
+Organic Chemistry: Reaction mechanisms of Halogen Derivatives, Alcohols, Phenols, Aldehydes, and Ketones.
+
+Biomolecules & Polymers: Study of Carbohydrates, Proteins, DNA/RNA, and Synthetic Polymers (Nylon, Polythene).
+
+Green Chemistry: Principles of sustainable chemistry and Nanochemistry.
+
+3. Biology (The Living World)
+Plant Sciences: Reproduction in Plants, Photosynthesis (Calvin Cycle), and Respiration (Krebs Cycle).
+
+Human Anatomy & Physiology: Circulation, Excretion, Control and Coordination (Nervous System), and Chemical Coordination (Hormones).
+
+Genetics & Evolution: Mendelian Inheritance, DNA Replication, Protein Synthesis, and Human Evolution.
+
+Biotechnology: Genetic Engineering, PCR, and Applications in Medicine/Agriculture.
+
+4. Mathematics & Statistics
+Part 1: Mathematical Logic, Matrices, Trigonometric Functions, Pair of Straight Lines, Vectors, and 3D Geometry.
+
+Part 2: Limits, Continuity, Differentiation, Integration (Definite/Indefinite), Differential Equations, and Binomial Distribution.
+Science subjects follow the 70-30 Pattern because of the heavy emphasis on laboratory experiments.SubjectTheory (Written)PracticalsTotal MarksMin. PassingPhysics703010035Chemistry703010035Biology703010035Mathematics & Stats802010035English802010035
